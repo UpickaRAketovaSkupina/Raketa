@@ -1,3 +1,4 @@
+gc = 0.1;
 //========== ROCKET PARAMETERS ==========//
 
 //rocket
